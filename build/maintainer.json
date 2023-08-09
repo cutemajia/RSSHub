@@ -1199,7 +1199,8 @@
         "nczitzk"
     ],
     "/cnki/journals/:name": [
-        "Fatpandac"
+        "Fatpandac",
+        "Derekmini"
     ],
     "/cnki/journals/debut/:name": [
         "Fatpandac"
@@ -1500,6 +1501,12 @@
     ],
     "/dmzj/news/:category?": [
         "vzz64"
+    ],
+    "/dnaindia/:category": [
+        "Rjnishant530"
+    ],
+    "/dnaindia/topic/:topic": [
+        "Rjnishant530"
     ],
     "/dockerhub/build/:owner/:image/:tag?": [
         "HenryQW"
@@ -5036,6 +5043,9 @@
     ],
     "/spotify/saved/:limit?": [
         "outloudvi"
+    ],
+    "/spotify/show/:id": [
+        "caiohsramos"
     ],
     "/spotify/top/tracks": [
         "outloudvi"
